@@ -244,7 +244,7 @@ from urllib.parse import quote  # ✅ For safe URLs
 
 # 🌟 Page config
 st.set_page_config(page_title="🎬 Movie Recommender", layout="wide")
-st.title("🎬 Movie Recommendation System with Posters (Plex Links)")
+st.title("🎬 Movie Recommendation App")
 
 # 🔑 OMDb API Key
 OMDB_API_KEY = "b9305253"  # Replace with your real key if needed
